@@ -1,8 +1,9 @@
 title: Derecho
 description: Distributed systems toolkit for RDMA
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-time-machine
+github.repository_url: https://github.com/Derecho-Project/derecho-unified
 
 gems:
   - jekyll-mentions
