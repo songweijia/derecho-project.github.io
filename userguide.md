@@ -80,6 +80,7 @@ In order to start or join a Group, all members (including processes that join la
 
 Here is an example of a declaration of a SubgroupInfo (which is the struct that contains the map of subgroup membership functions) that defines subgroups for two types of Replicated Objects, Foo and Bar. 
 
+{% raw %}
 ```cpp
 derecho::SubgroupInfo subgroup_info{
     {{std::type_index(typeid(Foo)), [](const derecho::View& curr_view) {
@@ -101,6 +102,7 @@ derecho::SubgroupInfo subgroup_info{
           return subgroup_vector;
       }}}};
 ```
+{% endraw %}
 The function for Foo creates a vector with a single subgroup entry containing a size-2 vector, so it specifies that there will be one subgroup of type Foo, with two shards. It uses the convenience function `make_subview` to construct a SubView with a specific set of members; it assumes that the nodes in this Group will have IDs that sequentially increment from 0, so that a group with 6 members will have node IDs 0 through 5. By contrast, the function for Bar creates a vector with two entries, each of which is a size-1 vector, so it specifies that there will be two subgroups of type Bar, each of which has only one shard. Note that both functions throw `subgroup_provisioning_exception` if they receive an input View with fewer members than are necessary to construct their subgroups. Throwing this exception will cause the Group to stop setting up subgroups and wait for enough members to join before allowing any subgroup operations to proceed.
 
 
