@@ -9,4 +9,4 @@ You can download the source code for Derecho from our main repository at <https:
 
 ## Documentation
 
-The GitHub README at the derecho-unified repository contains a brief guide to setting up and running a distributed service using Derecho. You can also read it [here]({{ site.baseurl }}{% link userguide.md %}). In addition, most of the developer-facing code in Derecho is documented with Doxygen comments, and the generated Doxygen HTML will be hosted at this website shortly. We hope to publish a more detailed user guide on this website soon. 
+The GitHub README at the derecho-unified repository contains a brief guide to setting up and running a distributed service using Derecho. You can also read it [here]({% link userguide.md %}). In addition, most of the developer-facing code in Derecho is documented with Doxygen comments, and the generated Doxygen HTML will be hosted at this website shortly. We hope to publish a more detailed user guide on this website soon. 
