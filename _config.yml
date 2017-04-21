@@ -3,10 +3,14 @@ description: Distributed systems toolkit for RDMA
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-time-machine
+#Overwrite this metadata field so the template fields in the website link to the project's repository, not the website's source code
 github:
     repository_url: https://github.com/Derecho-Project/derecho-unified
-redcarpet:
+
+#Attempt to turn off line numbers in code blocks
+kramdown:
     line_numbers: false
+    coderay_line_numbers: nil
 
 gems:
   - jekyll-mentions
