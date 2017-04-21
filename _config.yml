@@ -11,8 +11,6 @@ github:
 kramdown:
     syntax_highlighter_opts:
         line_numbers: false
-    coderay:
-        coderay_line_numbers: nil
 
 gems:
   - jekyll-mentions
