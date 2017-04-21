@@ -2,7 +2,7 @@ title: Derecho
 description: Distributed systems toolkit for RDMA
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-merlot
 #Overwrite this metadata field so the template fields in the website link to the project's repository, not the website's source code
 github:
     repository_url: https://github.com/Derecho-Project/derecho-unified
