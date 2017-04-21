@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+div.shell {
+	width:870px;
+}
+
+header {
+	max-width:800px;
+}
+
+div#no-downloads {
+	width:750px;
+}
+
+div#no-downloads span.inner {
+	width:750px;
+}
+
+span.banner-fix {
+	width:870px;
+}
+footer {
+	max-width: 760px;
+}
