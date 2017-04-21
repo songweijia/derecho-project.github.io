@@ -9,8 +9,10 @@ github:
 
 #Attempt to turn off line numbers in code blocks
 kramdown:
-    line_numbers: false
-    coderay_line_numbers: nil
+    syntax_highlighter_opts:
+        line_numbers: false
+    coderay:
+        coderay_line_numbers: nil
 
 gems:
   - jekyll-mentions
