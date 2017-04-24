@@ -13,15 +13,20 @@ header {
 
 div#no-downloads {
 	width:750px;
+	background: transparent url(../images/bg-ramp-stretch.jpg) center 171px no-repeat;
 }
 
 div#no-downloads span.inner {
 	width:750px;
+	background: transparent url(../images/download-sprite-stretch.png) 0 0 no-repeat;
 }
 
 span.banner-fix {
 	width:870px;
+	background: transparent url(../images/download-fallback-bg-stretch.png) center top no-repeat;
 }
+
 footer {
 	max-width: 760px;
+	background: transparent url(../images/footer-ramp-stretch.jpg) center -1px no-repeat;
 }
