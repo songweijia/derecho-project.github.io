@@ -1,0 +1,19 @@
+<map id="derecho/subgroup_info.h" name="derecho/subgroup_info.h">
+<area shape="rect" id="node2" href="$view__manager_8h.html" title="derecho/view_manager.h" alt="" coords="506,237,673,263"/>
+<area shape="rect" id="node4" href="$group_8h.html" title="derecho/group.h" alt="" coords="343,468,457,495"/>
+<area shape="rect" id="node5" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="77,543,206,569"/>
+<area shape="rect" id="node12" href="$multicast__group_8h.html" title="derecho/multicast_group.h" alt="" coords="454,80,629,107"/>
+<area shape="rect" id="node18" href="$subgroup__functions_8h.html" title="derecho/subgroup_functions.h" alt="" coords="43,155,239,181"/>
+<area shape="rect" id="node3" href="$raw__subgroup_8h.html" title="derecho/raw_subgroup.h" alt="" coords="341,319,505,345"/>
+<area shape="rect" id="node8" href="$rpc__manager_8h.html" title="derecho/rpc_manager.h" alt="" coords="746,319,905,345"/>
+<area shape="rect" id="node11" href="$view__manager_8cpp.html" title="derecho/view_manager.cpp" alt="" coords="529,319,711,345"/>
+<area shape="rect" id="node7" href="$raw__subgroup_8cpp.html" title="derecho/raw_subgroup.cpp" alt="" coords="323,393,501,420"/>
+<area shape="rect" id="node6" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="327,543,473,569"/>
+<area shape="rect" id="node9" href="$replicated_8h.html" title="derecho/replicated.h" alt="" coords="576,393,715,420"/>
+<area shape="rect" id="node10" href="$rpc__manager_8cpp.html" title="derecho/rpc_manager.cpp" alt="" coords="739,393,911,420"/>
+<area shape="rect" id="node13" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="694,155,805,181"/>
+<area shape="rect" id="node17" href="$multicast__group_8cpp.html" title="derecho/multicast_group.cpp" alt="" coords="447,155,636,181"/>
+<area shape="rect" id="node14" href="$parse__state__file_8cpp.html" title="A small executable utility that reads a serialized View from a &quot;state file&quot; (saved by ManagedGroup du..." alt="" coords="697,229,837,271"/>
+<area shape="rect" id="node15" href="$subgroup__functions_8cpp.html" title="derecho/subgroup_functions.cpp" alt="" coords="272,237,483,263"/>
+<area shape="rect" id="node16" href="$view_8cpp.html" title="derecho/view.cpp" alt="" coords="913,237,1037,263"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="derecho/remote_invocable.h" name="derecho/remote_invocable.h">
+<area shape="rect" id="node2" href="$replicated_8h.html" title="derecho/replicated.h" alt="" coords="110,155,249,181"/>
+<area shape="rect" id="node6" href="$rpc__manager_8h.html" title="derecho/rpc_manager.h" alt="" coords="212,80,371,107"/>
+<area shape="rect" id="node3" href="$group_8h.html" title="derecho/group.h" alt="" coords="175,229,290,256"/>
+<area shape="rect" id="node4" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="5,304,135,331"/>
+<area shape="rect" id="node5" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="159,304,306,331"/>
+<area shape="rect" id="node7" href="$rpc__manager_8cpp.html" title="derecho/rpc_manager.cpp" alt="" coords="324,155,496,181"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="derecho::derecho_exception" name="derecho::derecho_exception">
+<area shape="rect" id="node3" href="$structderecho_1_1empty__reference__exception.html" title="Exception that means a reference&#45;like type is &quot;empty&quot; (does not contain a valid object). " alt="" coords="407,5,580,47"/>
+<area shape="rect" id="node4" href="$structderecho_1_1invalid__subgroup__exception.html" title="Exception that means the user made an invalid request for a subgroup handle, such as by supplying an ..." alt="" coords="407,71,580,112"/>
+<area shape="rect" id="node5" href="$classderecho_1_1subgroup__provisioning__exception.html" title="An exception that indicates that a subgroup membership function was unable to finish executing becaus..." alt="" coords="391,136,596,177"/>
+<area shape="rect" id="node2" title="STL class. " alt="" coords="5,78,109,105"/>
+</map>

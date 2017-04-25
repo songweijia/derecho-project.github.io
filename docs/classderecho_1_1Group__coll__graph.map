@@ -1,0 +1,18 @@
+<map id="derecho::Group&lt; ReplicatedTypes &gt;" name="derecho::Group&lt; ReplicatedTypes &gt;">
+<area shape="rect" id="node2" href="$classderecho_1_1rpc_1_1RPCManager.html" title="derecho::rpc::RPCManager" alt="" coords="2795,1339,2976,1365"/>
+<area shape="rect" id="node3" href="$classderecho_1_1ViewManager.html" title="derecho::ViewManager" alt="" coords="2453,405,2607,432"/>
+<area shape="rect" id="node49" href="$classderecho_1_1RawSubgroup.html" title="derecho::RawSubgroup" alt="" coords="2806,405,2965,432"/>
+<area shape="rect" id="node5" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="1394,649,1499,676"/>
+<area shape="rect" id="node31" href="$structderecho_1_1DerechoParams.html" title="derecho::DerechoParams" alt="" coords="1361,353,1532,380"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="727,344,807,371"/>
+<area shape="rect" id="node34" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="1403,949,1490,976"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="310,201,437,242"/>
+<area shape="rect" id="node15" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="685,831,849,857"/>
+<area shape="rect" id="node23" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="288,303,459,345"/>
+<area shape="rect" id="node38" href="$classderecho_1_1LockedQueue.html" title="derecho::LockedQueue\l\&lt; tcp::socket \&gt;" alt="" coords="2093,467,2249,509"/>
+<area shape="rect" id="node40" href="$classtcp_1_1tcp__connections.html" title="tcp::tcp_connections" alt="" coords="2099,1352,2242,1379"/>
+<area shape="rect" id="node25" title="STL class. " alt="" coords="331,1141,415,1168"/>
+<area shape="rect" id="node28" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="1367,1257,1527,1284"/>
+<area shape="rect" id="node35" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="2094,151,2247,177"/>
+<area shape="rect" id="node46" href="$structderecho_1_1rpc_1_1Opcode.html" title="An RPC function call can be uniquely identified by the tuple (class, subgroup ID, function ID..." alt="" coords="1711,1252,1857,1279"/>
+</map>

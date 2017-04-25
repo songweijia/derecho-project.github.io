@@ -1,0 +1,6 @@
+<map id="rdmc::exception" name="rdmc::exception">
+<area shape="rect" id="node2" href="$classrdmc_1_1connection__broken.html" title="rdmc::connection_broken" alt="" coords="5,80,173,107"/>
+<area shape="rect" id="node3" href="$classrdmc_1_1group__busy.html" title="rdmc::group_busy" alt="" coords="198,80,325,107"/>
+<area shape="rect" id="node4" href="$classrdmc_1_1invalid__args.html" title="rdmc::invalid_args" alt="" coords="349,80,477,107"/>
+<area shape="rect" id="node5" href="$classrdmc_1_1nonroot__sender.html" title="rdmc::nonroot_sender" alt="" coords="502,80,650,107"/>
+</map>

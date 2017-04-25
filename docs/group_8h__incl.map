@@ -1,0 +1,17 @@
+<map id="derecho/group.h" name="derecho/group.h">
+<area shape="rect" id="node16" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="3995,304,4069,331"/>
+<area shape="rect" id="node19" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="902,543,1045,569"/>
+<area shape="rect" id="node20" href="$raw__subgroup_8h.html" title="raw_subgroup.h" alt="" coords="1160,155,1275,181"/>
+<area shape="rect" id="node21" href="$view__manager_8h.html" title="view_manager.h" alt="" coords="1248,229,1365,256"/>
+<area shape="rect" id="node26" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="1943,461,2057,487"/>
+<area shape="rect" id="node39" href="$replicated_8h.html" title="replicated.h" alt="" coords="3322,80,3411,107"/>
+<area shape="rect" id="node47" href="$rpc__manager_8h.html" title="rpc_manager.h" alt="" coords="2698,155,2806,181"/>
+<area shape="rect" id="node50" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="2228,80,2324,107"/>
+<area shape="rect" id="node24" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="395,379,527,405"/>
+<area shape="rect" id="node27" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="2361,304,2421,331"/>
+<area shape="rect" id="node28" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2233,461,2337,487"/>
+<area shape="rect" id="node29" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2359,543,2433,569"/>
+<area shape="rect" id="node34" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="2228,379,2353,405"/>
+<area shape="rect" id="node41" href="$remote__invocable_8h.html" title="remote_invocable.h" alt="" coords="3413,304,3547,331"/>
+<area shape="rect" id="node44" href="$rpc__utils_8h.html" title="rpc_utils.h" alt="" coords="3093,379,3176,405"/>
+</map>

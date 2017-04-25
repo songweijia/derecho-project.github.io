@@ -1,0 +1,18 @@
+<map id="derecho/view_manager.h" name="derecho/view_manager.h">
+<area shape="rect" id="node8" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="43,557,175,584"/>
+<area shape="rect" id="node10" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="1055,483,1169,509"/>
+<area shape="rect" id="node17" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1870,557,1943,584"/>
+<area shape="rect" id="node18" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="1653,80,1713,107"/>
+<area shape="rect" id="node15" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="1041,557,1183,584"/>
+<area shape="rect" id="node20" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="3091,401,3195,427"/>
+<area shape="rect" id="node21" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2801,483,2874,509"/>
+<area shape="rect" id="node35" href="$multicast__group_8h.html" title="multicast_group.h" alt="" coords="1919,155,2044,181"/>
+<area shape="rect" id="node30" href="$predicates_8h.html" title="predicates.h" alt="" coords="3020,632,3113,659"/>
+<area shape="rect" id="node31" href="$verbs_8h.html" title="Contains declarations needed for working with RDMA using InfiniBand Verbs, including the Resources cl..." alt="" coords="951,557,1017,584"/>
+<area shape="rect" id="node32" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="2991,557,3073,584"/>
+<area shape="rect" id="node42" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="807,483,961,509"/>
+<area shape="rect" id="node43" href="$filewriter_8h.html" title="filewriter.h" alt="" coords="2985,237,3068,263"/>
+<area shape="rect" id="node48" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="1562,483,1657,509"/>
+<area shape="rect" id="node45" href="$persistence_8h.html" title="persistence.h" alt="" coords="3021,319,3121,345"/>
+<area shape="rect" id="node49" href="$verbs__helper_8h.html" title="verbs_helper.h" alt="" coords="1637,557,1744,584"/>
+</map>

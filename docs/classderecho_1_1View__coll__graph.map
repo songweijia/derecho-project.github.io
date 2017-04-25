@@ -1,0 +1,11 @@
+<map id="derecho::View" name="derecho::View">
+<area shape="rect" id="node4" title="STL class. " alt="" coords="1807,28,1887,55"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="1370,21,1497,62"/>
+<area shape="rect" id="node11" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="1765,647,1929,674"/>
+<area shape="rect" id="node14" href="$structderecho_1_1Message.html" title="derecho::Message" alt="" coords="580,518,709,544"/>
+<area shape="rect" id="node15" href="$structderecho_1_1MessageBuffer.html" title="Represents a block of memory used to store a message. " alt="" coords="252,546,416,572"/>
+<area shape="rect" id="node25" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="927,989,1097,1030"/>
+<area shape="rect" id="node30" href="$classderecho_1_1FileWriter.html" title="derecho::FileWriter" alt="" coords="946,1086,1078,1112"/>
+<area shape="rect" id="node24" href="$structderecho_1_1CallbackSet.html" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="1360,1286,1507,1312"/>
+<area shape="rect" id="node33" title="STL class. " alt="" coords="603,1228,687,1255"/>
+</map>

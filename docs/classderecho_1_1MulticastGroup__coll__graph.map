@@ -1,0 +1,8 @@
+<map id="derecho::MulticastGroup" name="derecho::MulticastGroup">
+<area shape="rect" id="node4" href="$structderecho_1_1Message.html" title="derecho::Message" alt="" coords="580,168,709,195"/>
+<area shape="rect" id="node5" href="$structderecho_1_1MessageBuffer.html" title="Represents a block of memory used to store a message. " alt="" coords="252,197,416,224"/>
+<area shape="rect" id="node17" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="927,801,1097,842"/>
+<area shape="rect" id="node22" href="$classderecho_1_1FileWriter.html" title="derecho::FileWriter" alt="" coords="946,955,1078,981"/>
+<area shape="rect" id="node16" href="$structderecho_1_1CallbackSet.html" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="1360,1155,1507,1181"/>
+<area shape="rect" id="node25" title="STL class. " alt="" coords="603,1084,687,1111"/>
+</map>

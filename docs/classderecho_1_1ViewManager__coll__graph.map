@@ -1,0 +1,17 @@
+<map id="derecho::ViewManager" name="derecho::ViewManager">
+<area shape="rect" id="node3" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="2467,1130,2573,1157"/>
+<area shape="rect" id="node43" href="$structderecho_1_1DerechoParams.html" title="derecho::DerechoParams" alt="" coords="2435,1505,2605,1531"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="1801,1505,1881,1531"/>
+<area shape="rect" id="node46" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="2117,1477,2203,1503"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="1363,1497,1490,1539"/>
+<area shape="rect" id="node13" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="1759,643,1923,670"/>
+<area shape="rect" id="node16" href="$structderecho_1_1Message.html" title="derecho::Message" alt="" coords="580,71,709,98"/>
+<area shape="rect" id="node17" href="$structderecho_1_1MessageBuffer.html" title="Represents a block of memory used to store a message. " alt="" coords="252,245,416,271"/>
+<area shape="rect" id="node27" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="1341,417,1512,459"/>
+<area shape="rect" id="node32" href="$classderecho_1_1FileWriter.html" title="derecho::FileWriter" alt="" coords="943,445,1075,471"/>
+<area shape="rect" id="node50" href="$classderecho_1_1LockedQueue.html" title="derecho::LockedQueue\l\&lt; tcp::socket \&gt;" alt="" coords="2779,1385,2935,1427"/>
+<area shape="rect" id="node26" href="$structderecho_1_1CallbackSet.html" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="1353,935,1500,962"/>
+<area shape="rect" id="node35" title="STL class. " alt="" coords="603,310,687,337"/>
+<area shape="rect" id="node40" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="3165,1606,3325,1633"/>
+<area shape="rect" id="node47" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="3169,1707,3322,1734"/>
+</map>
