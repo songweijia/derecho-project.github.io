@@ -117,7 +117,7 @@ Derecho provides a default subgroup membership function that automatically assig
 There are several helper functions in `subgroup_functions.h` that construct AllocationPolicy objects for different scenarios, to make it easier to set up the default subgroup membership function. Here is an example of a SubgroupInfo that uses these functions to set up two types of Replicated Objects using the default membership function:
 ```cpp
 derecho::SubgroupInfo subgroup_info {
-	{{std::type_index(typeid(Foo)), derecho::DefaultSubgroupAllocator(
+	{ {std::type_index(typeid(Foo)), derecho::DefaultSubgroupAllocator(
 			derecho::one_subgroup_policy(derecho::even_sharding_policy(2, 3)))},
 	 {std::type_index(typeid(Bar)), derecho::DefaultSubgroupAllocator(
 			derecho::identical_subgroups_policy(2, derecho::even_sharding_policy(1, 3)))}
