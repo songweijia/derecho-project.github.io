@@ -1,7 +1,8 @@
 <map id="derecho/rpc_manager.h" name="derecho/rpc_manager.h">
-<area shape="rect" id="node2" href="$replicated_8h.html" title="derecho/replicated.h" alt="" coords="110,80,249,107"/>
-<area shape="rect" id="node3" href="$group_8h.html" title="derecho/group.h" alt="" coords="175,155,290,181"/>
-<area shape="rect" id="node6" href="$rpc__manager_8cpp.html" title="derecho/rpc_manager.cpp" alt="" coords="324,80,496,107"/>
-<area shape="rect" id="node4" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="5,229,135,256"/>
-<area shape="rect" id="node5" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="159,229,306,256"/>
+<area shape="rect" id="node2" href="$replicated_8h.html" title="derecho/replicated.h" alt="" coords="107,80,246,107"/>
+<area shape="rect" id="node4" href="$group_8h.html" title="derecho/group.h" alt="" coords="175,244,290,271"/>
+<area shape="rect" id="node7" href="$rpc__manager_8cpp.html" title="derecho/rpc_manager.cpp" alt="" coords="321,80,493,107"/>
+<area shape="rect" id="node3" href="$persistence__manager_8h.html" title="derecho/persistence\l_manager.h" alt="" coords="57,155,195,196"/>
+<area shape="rect" id="node5" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="5,319,135,345"/>
+<area shape="rect" id="node6" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="159,319,306,345"/>
 </map>

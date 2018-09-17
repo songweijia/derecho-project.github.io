@@ -1,22 +1,24 @@
 <map id="rdmc/rdmc.h" name="rdmc/rdmc.h">
-<area shape="rect" id="node2" href="$multicast__group_8h.html" title="derecho/multicast_group.h" alt="" coords="667,80,842,107"/>
-<area shape="rect" id="node18" href="$experiment_8cpp.html" title="rdmc/experiment.cpp" alt="" coords="866,80,1010,107"/>
-<area shape="rect" id="node19" href="$group__send_8h.html" title="rdmc/group_send.h" alt="" coords="1034,80,1168,107"/>
-<area shape="rect" id="node21" href="$rdmc_8cpp.html" title="rdmc/rdmc.cpp" alt="" coords="1150,155,1260,181"/>
-<area shape="rect" id="node3" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="578,155,688,181"/>
-<area shape="rect" id="node17" href="$multicast__group_8cpp.html" title="derecho/multicast_group.cpp" alt="" coords="713,155,902,181"/>
-<area shape="rect" id="node4" href="$view__manager_8h.html" title="derecho/view_manager.h" alt="" coords="284,237,451,263"/>
-<area shape="rect" id="node10" href="$rpc__manager_8h.html" title="derecho/rpc_manager.h" alt="" coords="483,319,642,345"/>
-<area shape="rect" id="node14" href="$parse__state__file_8cpp.html" title="A small executable utility that reads a serialized View from a &quot;state file&quot; (saved by ManagedGroup du..." alt="" coords="563,229,703,271"/>
-<area shape="rect" id="node15" href="$subgroup__functions_8cpp.html" title="derecho/subgroup_functions.cpp" alt="" coords="728,237,938,263"/>
-<area shape="rect" id="node16" href="$view_8cpp.html" title="derecho/view.cpp" alt="" coords="962,237,1086,263"/>
-<area shape="rect" id="node5" href="$raw__subgroup_8h.html" title="derecho/raw_subgroup.h" alt="" coords="31,319,195,345"/>
-<area shape="rect" id="node6" href="$group_8h.html" title="derecho/group.h" alt="" coords="208,468,322,495"/>
-<area shape="rect" id="node13" href="$view__manager_8cpp.html" title="derecho/view_manager.cpp" alt="" coords="277,319,458,345"/>
-<area shape="rect" id="node9" href="$raw__subgroup_8cpp.html" title="derecho/raw_subgroup.cpp" alt="" coords="24,393,202,420"/>
-<area shape="rect" id="node7" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="38,543,167,569"/>
-<area shape="rect" id="node8" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="192,543,338,569"/>
-<area shape="rect" id="node11" href="$replicated_8h.html" title="derecho/replicated.h" alt="" coords="328,393,466,420"/>
-<area shape="rect" id="node12" href="$rpc__manager_8cpp.html" title="derecho/rpc_manager.cpp" alt="" coords="491,393,663,420"/>
-<area shape="rect" id="node20" href="$group__send_8cpp.html" title="rdmc/group_send.cpp" alt="" coords="980,155,1126,181"/>
+<area shape="rect" id="node2" href="$multicast__group_8h.html" title="derecho/multicast_group.h" alt="" coords="438,80,612,107"/>
+<area shape="rect" id="node20" href="$experiment_8cpp.html" title="rdmc/experiment.cpp" alt="" coords="644,80,788,107"/>
+<area shape="rect" id="node21" href="$group__send_8h.html" title="rdmc/group_send.h" alt="" coords="812,80,945,107"/>
+<area shape="rect" id="node23" href="$rdmc_8cpp.html" title="rdmc/rdmc.cpp" alt="" coords="936,155,1045,181"/>
+<area shape="rect" id="node3" href="$view__manager_8h.html" title="derecho/view_manager.h" alt="" coords="284,237,451,263"/>
+<area shape="rect" id="node14" href="$multicast__group_8cpp.html" title="derecho/multicast_group.cpp" alt="" coords="416,155,605,181"/>
+<area shape="rect" id="node15" href="$view_8h.html" title=": Contains the definition of the View class " alt="" coords="630,155,740,181"/>
+<area shape="rect" id="node4" href="$raw__subgroup_8h.html" title="derecho/raw_subgroup.h" alt="" coords="30,326,194,353"/>
+<area shape="rect" id="node5" href="$group_8h.html" title="derecho/group.h" alt="" coords="232,572,346,599"/>
+<area shape="rect" id="node9" href="$rpc__manager_8h.html" title="derecho/rpc_manager.h" alt="" coords="482,326,640,353"/>
+<area shape="rect" id="node13" href="$view__manager_8cpp.html" title="derecho/view_manager.cpp" alt="" coords="276,326,457,353"/>
+<area shape="rect" id="node8" href="$raw__subgroup_8cpp.html" title="derecho/raw_subgroup.cpp" alt="" coords="22,408,201,435"/>
+<area shape="rect" id="node6" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="62,647,191,673"/>
+<area shape="rect" id="node7" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="216,647,362,673"/>
+<area shape="rect" id="node10" href="$replicated_8h.html" title="derecho/replicated.h" alt="" coords="352,408,490,435"/>
+<area shape="rect" id="node12" href="$rpc__manager_8cpp.html" title="derecho/rpc_manager.cpp" alt="" coords="515,408,687,435"/>
+<area shape="rect" id="node11" href="$persistence__manager_8h.html" title="derecho/persistence\l_manager.h" alt="" coords="377,483,516,524"/>
+<area shape="rect" id="node16" href="$subgroup__function__tester_8h.html" title="derecho/subgroup_function\l_tester.h" alt="" coords="597,229,776,271"/>
+<area shape="rect" id="node18" href="$subgroup__functions_8cpp.html" title="derecho/subgroup_functions.cpp" alt="" coords="800,237,1010,263"/>
+<area shape="rect" id="node19" href="$view_8cpp.html" title="derecho/view.cpp" alt="" coords="1034,237,1158,263"/>
+<area shape="rect" id="node17" href="$subgroup__function__tester_8cpp.html" title="derecho/subgroup_function\l_tester.cpp" alt="" coords="665,319,844,360"/>
+<area shape="rect" id="node22" href="$group__send_8cpp.html" title="rdmc/group_send.cpp" alt="" coords="765,155,912,181"/>
 </map>

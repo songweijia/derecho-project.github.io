@@ -2,15 +2,17 @@ var searchData=
 [
   ['accept',['accept',['../classtcp_1_1connection__listener.html#a4a528cc5c1dff1d24933ae4fdb1221c3',1,'tcp::connection_listener']]],
   ['access',['access',['../structderecho_1_1LockedQueue_1_1LockedListAccess.html#a7637fd8e0457b808000321e7f01564fd',1,'derecho::LockedQueue::LockedListAccess']]],
+  ['acknowledge_5fproposed_5fchange',['acknowledge_proposed_change',['../classderecho_1_1ViewManager.html#ab2e46af3e9300209579c294b97eeb10c',1,'derecho::ViewManager']]],
   ['active_5fsenders',['active_senders',['../experiment_8cpp.html#aa841ccd18ec4a0a116b8906a078956dc',1,'experiment.cpp']]],
   ['add_5faddress',['add_address',['../namespacerdmc.html#a6d2395b8b8bd6ac522570afdce7aaab5',1,'rdmc']]],
   ['add_5fconnection',['add_connection',['../classtcp_1_1tcp__connections.html#a8fb004099977f508c4059db3e42b2086',1,'tcp::tcp_connections']]],
-  ['add_5fnode',['add_node',['../classtcp_1_1tcp__connections.html#a89b8420dbf86977db833990184a0e88c',1,'tcp::tcp_connections::add_node()'],['../namespacesst.html#aefabd69eb09f0071dcec5a55813a7ee9',1,'sst::add_node()']]],
+  ['add_5fnode',['add_node',['../classtcp_1_1tcp__connections.html#a89b8420dbf86977db833990184a0e88c',1,'tcp::tcp_connections::add_node()'],['../namespacesst.html#abdc40ea5de9494005dac63a532ffa0bc',1,'sst::add_node()']]],
   ['add_5fview_5fupcall',['add_view_upcall',['../classderecho_1_1ViewManager.html#a590726290074f83789ceed7f4b9bee76',1,'derecho::ViewManager']]],
   ['addr',['addr',['../structsst_1_1cm__con__data__t.html#a869928ef0ad32c0b3d2f6f2649ee5e58',1,'sst::cm_con_data_t::addr()'],['../verbs_8h.html#a0e89cf6b9f6cd3125470b1bed2b823df',1,'addr():&#160;verbs.h']]],
   ['adjacency_5flist_5ft',['adjacency_list_t',['../namespacesst_1_1path__finding.html#a2dcb43d52a7c3e050fe4b42fb0ca249a',1,'sst::path_finding']]],
   ['alignto',['alignTo',['../namespacesst.html#a871dacc3548fc5410769f827e98ba064',1,'sst']]],
-  ['all_5fpredicate_5fbuilders',['all_predicate_builders',['../namespacesst.html#a9fe81c68dab01858adb6788f8cad4cc1',1,'sst::all_predicate_builders()'],['../namespacesst.html#abeebc688a801db5d307a728265de603e',1,'sst::all_predicate_builders(PredicateBuilder&lt; Row, ExtensionList &gt; const *const pb, Rst const *const ...rst)']]],
+  ['all_5findices',['all_indices',['../classsst_1_1SST.html#a2d24b35304bf9a9d8ae75a8309cb4923',1,'sst::SST']]],
+  ['all_5fpredicate_5fbuilders',['all_predicate_builders',['../namespacesst.html#a9fe81c68dab01858adb6788f8cad4cc1',1,'sst::all_predicate_builders()'],['../namespacesst.html#a60a213bbde227bdf0352828db66970ba',1,'sst::all_predicate_builders(PredicateBuilder&lt; Row, ExtensionList &gt; const *const pb, Rst const *const ... rst)']]],
   ['allocated_5fbuffer',['allocated_buffer',['../classrdma_1_1memory__region.html#a164aa01be151572ef3dbe27b9175eeae',1,'rdma::memory_region']]],
   ['already_5ffailed',['already_failed',['../structsst_1_1SSTParams.html#afef368aad04b37b745dbec39d09ed474',1,'sst::SSTParams']]],
   ['ansi_5fcolor_5fblue',['ANSI_COLOR_BLUE',['../experiment_8cpp.html#aca16e6a49eb51333c5fd3eee19487315',1,'experiment.cpp']]],
@@ -26,5 +28,7 @@ var searchData=
   ['append_5fsend',['append_send',['../classrdma_1_1task.html#a4c14a5e005cccbc066d34c446873eadd',1,'rdma::task']]],
   ['append_5fwait',['append_wait',['../classrdma_1_1task.html#a0c59c83cb2533bfc9bcc810330c109fe',1,'rdma::task']]],
   ['as_5frow_5fpred',['as_row_pred',['../namespacesst_1_1predicate__builder.html#a5bad278317c3c1f3da1e4e9311b482c1',1,'sst::predicate_builder']]],
-  ['await_5fsecond_5fmember',['await_second_member',['../classderecho_1_1ViewManager.html#a8c1d45dd0b17e9e3e943ec94756a14ae',1,'derecho::ViewManager']]]
+  ['assert_5falways',['assert_always',['../schedule_8cpp.html#aa4db75f7abc43730d1af7ffe9eb4161d',1,'schedule.cpp']]],
+  ['assign_5fsubgroup',['assign_subgroup',['../classderecho_1_1DefaultSubgroupAllocator.html#a785e040279ca6685c81ef73289c91dd7',1,'derecho::DefaultSubgroupAllocator']]],
+  ['await_5ffirst_5fview',['await_first_view',['../classderecho_1_1ViewManager.html#ad0cedd49299a50e9923c7aebd00e7a3b',1,'derecho::ViewManager']]]
 ];

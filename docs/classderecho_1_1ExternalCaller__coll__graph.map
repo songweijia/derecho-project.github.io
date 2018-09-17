@@ -1,18 +1,17 @@
 <map id="derecho::ExternalCaller&lt; T &gt;" name="derecho::ExternalCaller&lt; T &gt;">
-<area shape="rect" id="node2" href="$classderecho_1_1rpc_1_1RPCManager.html" title="derecho::rpc::RPCManager" alt="" coords="2805,904,2986,931"/>
-<area shape="rect" id="node3" href="$classderecho_1_1ViewManager.html" title="derecho::ViewManager" alt="" coords="2493,549,2647,576"/>
-<area shape="rect" id="node5" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="1434,937,1539,964"/>
-<area shape="rect" id="node33" href="$structderecho_1_1DerechoParams.html" title="derecho::DerechoParams" alt="" coords="1401,708,1572,735"/>
-<area shape="rect" id="node8" title="STL class. " alt="" coords="767,645,847,672"/>
-<area shape="rect" id="node36" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="1443,645,1530,672"/>
-<area shape="rect" id="node9" title="STL class. " alt="" coords="330,479,457,521"/>
-<area shape="rect" id="node15" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="725,848,889,875"/>
-<area shape="rect" id="node25" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="308,414,479,455"/>
-<area shape="rect" id="node40" href="$classderecho_1_1LockedQueue.html" title="derecho::LockedQueue\l\&lt; tcp::socket \&gt;" alt="" coords="2133,294,2289,335"/>
-<area shape="rect" id="node42" href="$classtcp_1_1tcp__connections.html" title="tcp::tcp_connections" alt="" coords="2139,953,2282,980"/>
-<area shape="rect" id="node24" href="$structderecho_1_1CallbackSet.html" title="Bundles together a set of callback functions for message delivery events. " alt="" coords="320,611,467,637"/>
-<area shape="rect" id="node27" title="STL class. " alt="" coords="351,240,435,267"/>
-<area shape="rect" id="node30" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="1407,995,1567,1021"/>
-<area shape="rect" id="node37" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="2134,473,2287,500"/>
-<area shape="rect" id="node48" href="$structderecho_1_1rpc_1_1Opcode.html" title="An RPC function call can be uniquely identified by the tuple (class, subgroup ID, function ID..." alt="" coords="1751,1381,1897,1408"/>
+<area shape="rect" id="node2" href="$classderecho_1_1rpc_1_1RPCManager.html" title="derecho::rpc::RPCManager" alt="" coords="2031,997,2213,1024"/>
+<area shape="rect" id="node4" href="$classsst_1_1P2PConnections.html" title="sst::P2PConnections" alt="" coords="1355,360,1501,387"/>
+<area shape="rect" id="node8" href="$classsst_1_1resources.html" title="sst::resources" alt="" coords="221,81,327,108"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="990,537,1074,564"/>
+<area shape="rect" id="node15" href="$classderecho_1_1ViewManager.html" title="derecho::ViewManager" alt="" coords="1717,1039,1871,1065"/>
+<area shape="rect" id="node17" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="571,1352,676,1379"/>
+<area shape="rect" id="node30" href="$structderecho_1_1DerechoParams.html" title="derecho::DerechoParams" alt="" coords="728,1149,899,1176"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="5,1180,85,1207"/>
+<area shape="rect" id="node33" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="580,1043,667,1069"/>
+<area shape="rect" id="node27" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="952,772,1112,799"/>
+<area shape="rect" id="node40" href="$classderecho_1_1LockedQueue.html" title="derecho::LockedQueue\l\&lt; tcp::socket \&gt;" alt="" coords="1350,1102,1506,1143"/>
+<area shape="rect" id="node34" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="1351,908,1505,935"/>
+<area shape="rect" id="node37" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="1343,973,1513,1014"/>
+<area shape="rect" id="node42" href="$classtcp_1_1tcp__connections.html" title="tcp::tcp_connections" alt="" coords="1723,624,1865,651"/>
+<area shape="rect" id="node48" href="$structderecho_1_1rpc_1_1Opcode.html" title="An RPC function call can be uniquely identified by the tuple (class, subgroup ID, function ID..." alt="" coords="959,1428,1105,1455"/>
 </map>

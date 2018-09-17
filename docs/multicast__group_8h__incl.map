@@ -1,16 +1,16 @@
 <map id="derecho/multicast_group.h" name="derecho/multicast_group.h">
-<area shape="rect" id="node15" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="1073,333,1226,360"/>
-<area shape="rect" id="node20" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="2788,251,2892,278"/>
-<area shape="rect" id="node21" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2517,333,2590,360"/>
-<area shape="rect" id="node38" href="$filewriter_8h.html" title="filewriter.h" alt="" coords="3131,87,3213,114"/>
-<area shape="rect" id="node44" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="494,333,589,360"/>
-<area shape="rect" id="node48" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="1273,333,1388,360"/>
-<area shape="rect" id="node17" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="1219,483,1351,509"/>
-<area shape="rect" id="node18" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1014,408,1087,435"/>
-<area shape="rect" id="node29" href="$predicates_8h.html" title="predicates.h" alt="" coords="2637,483,2731,509"/>
-<area shape="rect" id="node32" href="$verbs_8h.html" title="Contains declarations needed for working with RDMA using InfiniBand Verbs, including the Resources cl..." alt="" coords="1509,408,1574,435"/>
-<area shape="rect" id="node34" href="$sst__impl_8h.html" title="sst_impl.h" alt="" coords="2587,408,2669,435"/>
-<area shape="rect" id="node40" href="$persistence_8h.html" title="persistence.h" alt="" coords="3242,169,3342,196"/>
-<area shape="rect" id="node45" href="$verbs__helper_8h.html" title="verbs_helper.h" alt="" coords="680,408,787,435"/>
-<area shape="rect" id="node50" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="1701,408,1843,435"/>
+<area shape="rect" id="node15" href="$connection__manager_8h.html" title="connection_manager.h" alt="" coords="1501,87,1654,114"/>
+<area shape="rect" id="node20" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="1101,169,1229,196"/>
+<area shape="rect" id="node24" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="2919,87,3044,114"/>
+<area shape="rect" id="node25" href="$derecho__ports_8h.html" title="derecho_ports.h" alt="" coords="3068,87,3183,114"/>
+<area shape="rect" id="node26" href="$derecho__sst_8h.html" title="derecho_sst.h" alt="" coords="1867,87,1971,114"/>
+<area shape="rect" id="node32" href="$sst_8h.html" title="sst/sst.h" alt="" coords="2462,169,2535,196"/>
+<area shape="rect" id="node42" href="$rdmc_8h.html" title="rdmc/rdmc.h" alt="" coords="533,87,627,114"/>
+<area shape="rect" id="node46" href="$multicast_8h.html" title="sst/multicast.h" alt="" coords="2319,87,2427,114"/>
+<area shape="rect" id="node50" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="477,169,592,196"/>
+<area shape="rect" id="node17" href="$locked__reference_8h.html" title="locked_reference.h" alt="" coords="1454,169,1586,196"/>
+<area shape="rect" id="node18" href="$tcp_8h.html" title="tcp/tcp.h" alt="" coords="1254,169,1327,196"/>
+<area shape="rect" id="node31" href="$multicast__msg_8h.html" title="sst/multicast_msg.h" alt="" coords="2043,169,2183,196"/>
+<area shape="rect" id="node39" href="$predicates_8h.html" title="predicates.h" alt="" coords="2208,244,2301,271"/>
+<area shape="rect" id="node43" href="$verbs__helper_8h.html" title="verbs_helper.h" alt="" coords="667,169,773,196"/>
 </map>

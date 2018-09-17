@@ -1,4 +1,5 @@
 <map id="derecho/subgroup_functions.h" name="derecho/subgroup_functions.h">
-<area shape="rect" id="node2" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="5,80,135,107"/>
-<area shape="rect" id="node3" href="$subgroup__functions_8cpp.html" title="derecho/subgroup_functions.cpp" alt="" coords="158,80,369,107"/>
+<area shape="rect" id="node2" href="$subgroup__function__tester_8h.html" title="derecho/subgroup_function\l_tester.h" alt="" coords="5,80,184,121"/>
+<area shape="rect" id="node4" href="$subgroup__functions_8cpp.html" title="derecho/subgroup_functions.cpp" alt="" coords="208,87,419,114"/>
+<area shape="rect" id="node3" href="$subgroup__function__tester_8cpp.html" title="derecho/subgroup_function\l_tester.cpp" alt="" coords="5,169,184,211"/>
 </map>

@@ -6,8 +6,7 @@ var searchData=
   ['fd',['fd',['../classtcp_1_1connection__listener.html#a360fc2f1be59d3d428e752b89dce97f7',1,'tcp::connection_listener']]],
   ['field_5flen',['field_len',['../classsst_1_1__SSTField.html#ac4d755d27fe3c474fd5753c9d2b8e12f',1,'sst::_SSTField']]],
   ['file',['file',['../structevent.html#ab99fa3b47d9b5181c4be14f92034f9ed',1,'event']]],
-  ['file_5fwriter',['file_writer',['../classderecho_1_1MulticastGroup.html#a6b4ac61cab6a7ebd97ede7e2cb8db101',1,'derecho::MulticastGroup']]],
-  ['filename',['filename',['../structderecho_1_1DerechoParams.html#a6ee744df602e29cff872161c8768eb76',1,'derecho::DerechoParams']]],
+  ['finished_5fmulticasts_5fnum',['finished_multicasts_num',['../classsst_1_1multicast__group.html#adee6249b61905721fbd0402daea19aa7',1,'sst::multicast_group']]],
   ['first_5fblock_5fbuffer',['first_block_buffer',['../classpolling__group.html#aaccc29066ff6635d6cf0bc36a681bb58',1,'polling_group']]],
   ['first_5fblock_5fmr',['first_block_mr',['../classpolling__group.html#a10bf49e7551331022740aaabfda8f45d',1,'polling_group']]],
   ['first_5fblock_5fnumber',['first_block_number',['../classpolling__group.html#af7512bd976a17ae9239bb4922f6a9265',1,'polling_group']]],
@@ -16,5 +15,5 @@ var searchData=
   ['fulfilledlist',['fulfilledList',['../classderecho_1_1rpc_1_1RPCManager.html#a5ea15b4db5873a0dfe43d626370a0f33',1,'derecho::rpc::RPCManager']]],
   ['fun',['fun',['../structderecho_1_1rpc_1_1wrapped_3_01Tag_00_01std_1_1function_3_01Ret_07Arguments_8_8_8_08_4_01_4.html#a83c52241eaf28b6dfb60781d14cf4222',1,'derecho::rpc::wrapped&lt; Tag, std::function&lt; Ret(Arguments...)&gt; &gt;::fun()'],['../structderecho_1_1rpc_1_1partial__wrapped.html#a8d2a8de50b13cd817156488c67aedae4',1,'derecho::rpc::partial_wrapped::fun()'],['../structsst_1_1NamedFunction.html#a326bec72e68f58ec9dfe70066ff5bf9b',1,'sst::NamedFunction::fun()']]],
   ['function_5fid',['function_id',['../structderecho_1_1rpc_1_1Opcode.html#abb99859b9b85890f24a8671f070b010e',1,'derecho::rpc::Opcode']]],
-  ['future_5fmessage_5findices',['future_message_indices',['../classderecho_1_1MulticastGroup.html#aaf8eec86f8a6ea27ac5cc9b1958d1512',1,'derecho::MulticastGroup']]]
+  ['future_5fmessage_5findices',['future_message_indices',['../classderecho_1_1MulticastGroup.html#a34a1d2e8a41f5d9cf949bae16fa1e7dc',1,'derecho::MulticastGroup']]]
 ];

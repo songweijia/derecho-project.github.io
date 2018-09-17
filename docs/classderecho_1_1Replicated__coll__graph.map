@@ -1,18 +1,16 @@
 <map id="derecho::Replicated&lt; T &gt;" name="derecho::Replicated&lt; T &gt;">
-<area shape="rect" id="node2" href="$classderecho_1_1ReplicatedObject.html" title="Common interface for all types of Replicated&lt;T&gt;, specifying the methods to send and receive object st..." alt="" coords="2771,1253,2947,1280"/>
-<area shape="rect" id="node3" href="$classderecho_1_1rpc_1_1RPCManager.html" title="derecho::rpc::RPCManager" alt="" coords="2769,1304,2950,1331"/>
-<area shape="rect" id="node4" href="$classderecho_1_1ViewManager.html" title="derecho::ViewManager" alt="" coords="2453,953,2607,980"/>
-<area shape="rect" id="node6" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="1394,803,1499,829"/>
-<area shape="rect" id="node32" href="$structderecho_1_1DerechoParams.html" title="derecho::DerechoParams" alt="" coords="1361,1111,1532,1137"/>
-<area shape="rect" id="node9" title="STL class. " alt="" coords="727,1119,807,1145"/>
-<area shape="rect" id="node35" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="1403,1207,1490,1233"/>
-<area shape="rect" id="node10" title="STL class. " alt="" coords="310,1111,437,1153"/>
-<area shape="rect" id="node16" href="$classderecho_1_1MulticastGroup.html" title="Implements the low&#45;level mechanics of tracking multicasts in a Derecho group, using RDMC to deliver m..." alt="" coords="685,569,849,596"/>
-<area shape="rect" id="node24" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="288,225,459,266"/>
-<area shape="rect" id="node39" href="$classderecho_1_1LockedQueue.html" title="derecho::LockedQueue\l\&lt; tcp::socket \&gt;" alt="" coords="2093,919,2249,961"/>
-<area shape="rect" id="node41" href="$classtcp_1_1tcp__connections.html" title="tcp::tcp_connections" alt="" coords="2099,1337,2242,1364"/>
-<area shape="rect" id="node26" title="STL class. " alt="" coords="331,173,415,200"/>
-<area shape="rect" id="node29" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="1367,1307,1527,1333"/>
-<area shape="rect" id="node36" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="2094,985,2247,1012"/>
-<area shape="rect" id="node47" href="$structderecho_1_1rpc_1_1Opcode.html" title="An RPC function call can be uniquely identified by the tuple (class, subgroup ID, function ID..." alt="" coords="1711,1484,1857,1511"/>
+<area shape="rect" id="node2" href="$classderecho_1_1ReplicatedObject.html" title="Common interface for all types of Replicated&lt;T&gt;, specifying some methods for state transfer and persi..." alt="" coords="1823,900,1999,927"/>
+<area shape="rect" id="node4" href="$classderecho_1_1rpc_1_1RPCManager.html" title="derecho::rpc::RPCManager" alt="" coords="1821,1001,2002,1028"/>
+<area shape="rect" id="node6" href="$classsst_1_1P2PConnections.html" title="sst::P2PConnections" alt="" coords="1132,360,1279,387"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="767,537,851,564"/>
+<area shape="rect" id="node16" href="$classderecho_1_1ViewManager.html" title="derecho::ViewManager" alt="" coords="1494,1039,1649,1065"/>
+<area shape="rect" id="node18" href="$classderecho_1_1View.html" title="derecho::View" alt="" coords="348,1317,453,1344"/>
+<area shape="rect" id="node28" href="$structderecho_1_1DerechoParams.html" title="derecho::DerechoParams" alt="" coords="505,1173,676,1200"/>
+<area shape="rect" id="node25" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="729,796,889,823"/>
+<area shape="rect" id="node38" href="$classderecho_1_1LockedQueue.html" title="derecho::LockedQueue\l\&lt; tcp::socket \&gt;" alt="" coords="1127,1107,1283,1149"/>
+<area shape="rect" id="node31" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="357,745,444,772"/>
+<area shape="rect" id="node32" href="$structderecho_1_1SubgroupInfo.html" title="Container for whatever information is needed to describe a Group&#39;s subgroups and shards. " alt="" coords="1129,908,1282,935"/>
+<area shape="rect" id="node35" href="$classsst_1_1Predicates.html" title="sst::Predicates\&lt; Derecho\lSST \&gt;" alt="" coords="1120,978,1291,1019"/>
+<area shape="rect" id="node40" href="$classtcp_1_1tcp__connections.html" title="tcp::tcp_connections" alt="" coords="1500,733,1643,760"/>
+<area shape="rect" id="node46" href="$structderecho_1_1rpc_1_1Opcode.html" title="An RPC function call can be uniquely identified by the tuple (class, subgroup ID, function ID..." alt="" coords="736,1433,883,1460"/>
 </map>

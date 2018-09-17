@@ -1,9 +1,11 @@
 <map id="derecho/rpc_utils.h" name="derecho/rpc_utils.h">
-<area shape="rect" id="node2" href="$remote__invocable_8h.html" title="derecho/remote_invocable.h" alt="" coords="127,80,312,107"/>
-<area shape="rect" id="node3" href="$replicated_8h.html" title="derecho/replicated.h" alt="" coords="110,229,249,256"/>
-<area shape="rect" id="node7" href="$rpc__manager_8h.html" title="derecho/rpc_manager.h" alt="" coords="217,155,376,181"/>
-<area shape="rect" id="node4" href="$group_8h.html" title="derecho/group.h" alt="" coords="175,304,290,331"/>
-<area shape="rect" id="node5" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="5,379,135,405"/>
-<area shape="rect" id="node6" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="159,379,306,405"/>
-<area shape="rect" id="node8" href="$rpc__manager_8cpp.html" title="derecho/rpc_manager.cpp" alt="" coords="324,229,496,256"/>
+<area shape="rect" id="node2" href="$remote__invocable_8h.html" title="derecho/remote_invocable.h" alt="" coords="175,87,360,114"/>
+<area shape="rect" id="node3" href="$replicated_8h.html" title="derecho/replicated.h" alt="" coords="158,244,297,271"/>
+<area shape="rect" id="node8" href="$rpc__manager_8h.html" title="derecho/rpc_manager.h" alt="" coords="265,169,424,196"/>
+<area shape="rect" id="node10" href="$register__rpc__functions_8h.html" title="derecho/register_rpc\l_functions.h" alt="" coords="436,80,576,121"/>
+<area shape="rect" id="node4" href="$persistence__manager_8h.html" title="derecho/persistence\l_manager.h" alt="" coords="163,319,302,360"/>
+<area shape="rect" id="node5" href="$group_8h.html" title="derecho/group.h" alt="" coords="175,408,290,435"/>
+<area shape="rect" id="node6" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="5,483,135,509"/>
+<area shape="rect" id="node7" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="159,483,306,509"/>
+<area shape="rect" id="node9" href="$rpc__manager_8cpp.html" title="derecho/rpc_manager.cpp" alt="" coords="377,244,549,271"/>
 </map>

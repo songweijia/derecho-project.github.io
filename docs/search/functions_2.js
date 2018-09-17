@@ -8,8 +8,8 @@ var searchData=
   ['bind_5fto_5finstance',['bind_to_instance',['../namespacederecho_1_1rpc.html#a2e0f48f21aa2864abfb7c62792598f01',1,'derecho::rpc']]],
   ['binomial_5fschedule',['binomial_schedule',['../classbinomial__schedule.html#a603a313b706e8957219dbca7dfeddb4c',1,'binomial_schedule']]],
   ['blocksize_5fv_5fbandwidth',['blocksize_v_bandwidth',['../experiment_8cpp.html#a605e61e9d4374eb7412f205b839849c4',1,'experiment.cpp']]],
-  ['buid_5fnamed_5ffunction',['buid_named_function',['../namespacesst.html#a7309001206bbe58a1d4abab3d1764dd8',1,'sst']]],
-  ['build_5fnamed_5ffunction',['build_named_function',['../namespacesst.html#a25d0d12cfa040aa07810ca3ad22b53e0',1,'sst']]],
-  ['build_5fremote_5finvocable_5fclass',['build_remote_invocable_class',['../namespacederecho_1_1rpc.html#ad2a67d5e3d37d291894a4c37b0bf0d77',1,'derecho::rpc']]],
-  ['build_5fremote_5finvoker_5ffor_5fclass',['build_remote_invoker_for_class',['../namespacederecho_1_1rpc.html#a20358f8b0636fc2f4691f1125b75040e',1,'derecho::rpc']]]
+  ['build_5fnamed_5ffunction',['build_named_function',['../namespacesst.html#a25d0d12cfa040aa07810ca3ad22b53e0',1,'sst::build_named_function(Ret(*fun)(const Param &amp;))'],['../namespacesst.html#a7c12bc5399e836b7c7c80b34fe3f1d0a',1,'sst::build_named_function(F f)']]],
+  ['build_5fremote_5finvocable_5fclass',['build_remote_invocable_class',['../namespacederecho_1_1rpc.html#a390e2947bbb8d1b4160471b25878364a',1,'derecho::rpc']]],
+  ['build_5fremote_5finvoker_5ffor_5fclass',['build_remote_invoker_for_class',['../namespacederecho_1_1rpc.html#a20358f8b0636fc2f4691f1125b75040e',1,'derecho::rpc']]],
+  ['bytes_5fsize',['bytes_size',['../classVariableBytes.html#a7bf4f7c74247e664e6499849a3cc1786',1,'VariableBytes']]]
 ];

@@ -1,3 +1,3 @@
 <map id="derecho::rpc::RemoteInvoker&lt; Tag, std::function&lt; Ret(Args...)&gt; &gt;" name="derecho::rpc::RemoteInvoker&lt; Tag, std::function&lt; Ret(Args...)&gt; &gt;">
-<area shape="rect" id="node4" href="$structderecho_1_1rpc_1_1Opcode.html" title="An RPC function call can be uniquely identified by the tuple (class, subgroup ID, function ID..." alt="" coords="39,136,185,163"/>
+<area shape="rect" id="node3" href="$structderecho_1_1rpc_1_1Opcode.html" title="An RPC function call can be uniquely identified by the tuple (class, subgroup ID, function ID..." alt="" coords="243,20,389,47"/>
 </map>

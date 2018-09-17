@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structderecho_1_1rpc_1_1RemoteInvoker_3_01Tag_00_01std_1_1function_3_01Ret_07Args_8_8_8_08_4_01_4.html" title="Provides functions to implement RPC sends for function calls to a single function, identified by its compile&#45;time &quot;tag&quot; or ID. " alt="" coords="5,5,196,61"/>
+<area shape="rect" id="node1" href="$structderecho_1_1rpc_1_1RemoteInvocablePairs.html" title="derecho::rpc::RemoteInvocable\lPairs\&lt; WrappedFuns... \&gt;" alt="" coords="5,13,209,54"/>
+<area shape="rect" id="node2" href="$classderecho_1_1rpc_1_1RemoteInvocableClass.html" title="Transforms a class into a &quot;replicated object&quot; with methods that can be invoked by RPC..." alt="" coords="257,5,461,61"/>
 </map>

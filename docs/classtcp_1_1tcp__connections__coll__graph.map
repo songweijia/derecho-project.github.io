@@ -1,6 +1,6 @@
 <map id="tcp::tcp_connections" name="tcp::tcp_connections">
-<area shape="rect" id="node3" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="429,20,589,47"/>
-<area shape="rect" id="node6" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="466,85,553,112"/>
-<area shape="rect" id="node7" title="STL class. " alt="" coords="211,85,291,112"/>
-<area shape="rect" id="node8" title="STL class. " alt="" coords="5,78,132,119"/>
+<area shape="rect" id="node3" href="$classtcp_1_1connection__listener.html" title="tcp::connection_listener" alt="" coords="5,215,165,241"/>
+<area shape="rect" id="node6" href="$classtcp_1_1socket.html" title="tcp::socket" alt="" coords="217,215,303,241"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="220,111,300,137"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="197,5,323,47"/>
 </map>

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['rdmamsgr',['RDMAMSGR',['../verbs_8cpp.html#a444040ad804b2e68f584625a750f47cc',1,'verbs.cpp']]],
-  ['rdmamsgw',['RDMAMSGW',['../verbs_8cpp.html#a4149acfd9a223f90e8c94d1184671455',1,'verbs.cpp']]],
-  ['rowpred_5ftemplate_5farg',['rowpred_template_arg',['../combinators_8h.html#a5ae52b779178acdfa46961ef59a44bdc',1,'combinators.h']]]
+  ['derecho_5finternal_5fh',['DERECHO_INTERNAL_H',['../derecho__internal_8h.html#a6e7c5ba77e8c78e941570478fbc55690',1,'derecho_internal.h']]],
+  ['derecho_5flog',['DERECHO_LOG',['../rdmc_2util_8h.html#ac999f26cdd4efc802fdd059daa9e329d',1,'util.h']]]
 ];

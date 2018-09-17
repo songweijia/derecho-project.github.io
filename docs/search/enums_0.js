@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['nullenum',['NullEnum',['../namespacesst_1_1util.html#a55d36d88e2f349f3d958c148ffa5c043',1,'sst::util']]]
+  ['mode',['Mode',['../namespacederecho.html#a1fb14b9518cde9d5f222d1d6039b8bdc',1,'derecho']]]
 ];

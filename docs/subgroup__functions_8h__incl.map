@@ -1,4 +1,6 @@
 <map id="derecho/subgroup_functions.h" name="derecho/subgroup_functions.h">
-<area shape="rect" id="node2" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="243,80,357,107"/>
-<area shape="rect" id="node9" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="545,155,687,181"/>
+<area shape="rect" id="node3" href="$derecho__internal_8h.html" title="derecho_internal.h" alt="" coords="383,80,511,107"/>
+<area shape="rect" id="node9" href="$derecho__modes_8h.html" title="derecho_modes.h" alt="" coords="607,80,733,107"/>
+<area shape="rect" id="node10" href="$subgroup__info_8h.html" title="subgroup_info.h" alt="" coords="757,80,871,107"/>
+<area shape="rect" id="node15" href="$derecho__exception_8h.html" title="derecho_exception.h" alt="" coords="821,155,964,181"/>
 </map>

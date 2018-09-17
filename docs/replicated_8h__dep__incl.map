@@ -1,5 +1,6 @@
 <map id="derecho/replicated.h" name="derecho/replicated.h">
-<area shape="rect" id="node2" href="$group_8h.html" title="derecho/group.h" alt="" coords="175,80,290,107"/>
-<area shape="rect" id="node3" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="5,155,135,181"/>
-<area shape="rect" id="node4" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="159,155,306,181"/>
+<area shape="rect" id="node2" href="$persistence__manager_8h.html" title="derecho/persistence\l_manager.h" alt="" coords="110,80,249,121"/>
+<area shape="rect" id="node3" href="$group_8h.html" title="derecho/group.h" alt="" coords="175,169,290,196"/>
+<area shape="rect" id="node4" href="$derecho_8h.html" title="This header file includes everything a client of Derecho needs to be able to set up and use the syste..." alt="" coords="5,244,135,271"/>
+<area shape="rect" id="node5" href="$group__impl_8h.html" title="Contains implementations of all the ManagedGroup functions. " alt="" coords="159,244,306,271"/>
 </map>

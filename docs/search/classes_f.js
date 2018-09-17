@@ -2,6 +2,7 @@ var searchData=
 [
   ['rawobject',['RawObject',['../structderecho_1_1RawObject.html',1,'derecho']]],
   ['rawsubgroup',['RawSubgroup',['../classderecho_1_1RawSubgroup.html',1,'derecho']]],
+  ['rdmcmessage',['RDMCMessage',['../structderecho_1_1RDMCMessage.html',1,'derecho']]],
   ['receive_5fdestination',['receive_destination',['../structrdmc_1_1receive__destination.html',1,'rdmc']]],
   ['recv_5fret',['recv_ret',['../structderecho_1_1rpc_1_1recv__ret.html',1,'derecho::rpc']]],
   ['ref_5fpair',['ref_pair',['../structsst_1_1util_1_1ref__pair.html',1,'sst::util']]],
@@ -30,7 +31,7 @@ var searchData=
   ['replicatedobject',['ReplicatedObject',['../classderecho_1_1ReplicatedObject.html',1,'derecho']]],
   ['replymap',['ReplyMap',['../structderecho_1_1rpc_1_1QueryResults_1_1ReplyMap.html',1,'derecho::rpc::QueryResults']]],
   ['resources',['resources',['../classsst_1_1resources.html',1,'sst']]],
-  ['row_5fextension',['Row_Extension',['../structsst_1_1PredicateBuilder_1_1Row__Extension.html',1,'sst::PredicateBuilder']]],
-  ['row_5fextension',['Row_Extension',['../structsst_1_1PredicateBuilder_3_01Row_00_01TypeList_3_01Metadata_01_4_01_4_1_1Row__Extension.html',1,'sst::PredicateBuilder&lt; Row, TypeList&lt; Metadata &gt; &gt;']]],
+  ['resources_5ftwo_5fsided',['resources_two_sided',['../classsst_1_1resources__two__sided.html',1,'sst']]],
+  ['row_5fextension',['Row_Extension',['../structsst_1_1PredicateBuilder_1_1Row__Extension.html',1,'sst::PredicateBuilder&lt; Row, ExtensionList &gt;::Row_Extension'],['../structsst_1_1PredicateBuilder_3_01Row_00_01TypeList_3_01Metadata_01_4_01_4_1_1Row__Extension.html',1,'sst::PredicateBuilder&lt; Row, TypeList&lt; Metadata &gt; &gt;::Row_Extension']]],
   ['rpcmanager',['RPCManager',['../classderecho_1_1rpc_1_1RPCManager.html',1,'derecho::rpc']]]
 ];
